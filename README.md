@@ -7,9 +7,9 @@
 - Artifact Id: api-backend
 - packaging type: Jar
 - dependency:
--- Spring Web
--- Spring Data JPA
--- Lombok
--- H2 Database
--- MySQL Driver
--- MyBatis Framework
+  - Spring Web
+  - Spring Data JPA
+  - Lombok
+  - H2 Database
+  - MySQL Driver
+  - MyBatis Framework
